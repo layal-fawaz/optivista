@@ -1,0 +1,15 @@
+@media (max-width:768px) {
+    #mobile-view {
+        margin: 2rem;
+        display: block;
+    }
+
+    .glass-input-block {
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding: 1.5rem;
+        margin: 2rem 0;
+        background: #f9f9f9;
+    }
+
+}
